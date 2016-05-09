@@ -1,5 +1,7 @@
 {
   "name": "noddde",
   "version": "0.0.1",
-  "description": "Some ddd helpers for node"
+  "description": "Some ddd helpers for node",
+  "author": "Aitor Guerrero",
+  "license": "MIT"
 }
